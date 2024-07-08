@@ -1,7 +1,7 @@
 /* create a program that will determine if a number is Odd or even? positive or 
 negative? or zero? */
 
-package oddoreven;
+ package LMS;
 
 import java.util.Scanner;
 
