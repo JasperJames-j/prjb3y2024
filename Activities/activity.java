@@ -9,7 +9,7 @@ all numbers are equal
 */
 
 
-package LMS;
+
 import java.util.Scanner;
 
 public class activity {

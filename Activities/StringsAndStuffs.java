@@ -1,4 +1,4 @@
-package LMS;
+
 
 import java.util.Scanner;
 
